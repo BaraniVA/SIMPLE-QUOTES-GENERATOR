@@ -31,3 +31,8 @@ Simply add a new quote in the following format:
 Contributing:
 
 Feel free to contribute to this project by submitting pull requests or by reporting issues.
+
+Credits
+
+This program was created by BaraniVA. If you have any questions or suggestions, please contact me at baranianandakumar2003@gmail.com.
+
